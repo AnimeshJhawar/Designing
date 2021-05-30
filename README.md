@@ -7,7 +7,7 @@ Also tried to recreate Amazon Login Page.
 https://www.figma.com/file/BC8onbdl8NROWhgpK4FmVI/Librarian?node-id=0%3A1
 
 Frankly speaking this involved too many challenges for me (covid at friends home and wedding at my home I was divided)
-But still have done as much as possible in a single day (learnt and then did)
+But still have done as much as possible.
 
 I used iconify plugin for extra icons and then all the designs were self made no template used, Inspiration taken from Amazon Shopping Console and Other user panels are independently thought off. 
 Made panel for user, admin, librarian, register, login, display, cart console, profile etc.
@@ -27,4 +27,4 @@ the above designed page has them all and looks good.
 Now the user can both login and sign up on a single page.(instead of two different pages)
 Inspiration from Facebook's old Signup login console.
 
-Cheers Hope you like it, tried my best(in a day).
+Cheers Hope you like it, tried my best.
